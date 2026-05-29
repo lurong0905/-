@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+~$*
+.DS_Store
+Thumbs.db
+
+# Local/generated business files
+*.pdf
+*.doc
+*.docx
+*.xls
+*.xlsx
+发货资料*/
+发货信息搜集表.xlsx
+发货清单*.xlsx

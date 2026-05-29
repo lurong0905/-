@@ -1,0 +1,4 @@
+interface:
+  display_name: "Generate Shipping Notice"
+  short_description: "Generate shipping documents from reusable contract info tables."
+  default_prompt: "Use the shipping info collection table, warehouse packing list, built-in customer defaults, and customer templates in the current folder to generate the required shipping notice, packing list, shipping marks, and related delivery documents. If the shipping info collection table is missing, create and prefill it first."
